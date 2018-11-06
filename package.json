@@ -1,6 +1,6 @@
 {
-  "name": "irkfdb-react-component",
-  "version": "1.0.0",
+  "name": "@irkfdb_in/irkfdb-react-component",
+  "version": "1.0.1",
   "description": "A react component to show off the rajinikant facts",
   "main": "dist/index.js",
   "repository": "https://github.com/irkfdb/irkfdb-react-component",
